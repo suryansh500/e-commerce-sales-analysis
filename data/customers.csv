@@ -1,0 +1,181 @@
+Customer_ID,Customer_Name,City,Segment
+C0001,Customer_0001,Jaipur,Corporate
+C0002,Customer_0002,Hyderabad,Home Office
+C0003,Customer_0003,Mumbai,Consumer
+C0004,Customer_0004,Chennai,Home Office
+C0005,Customer_0005,Kolkata,Consumer
+C0006,Customer_0006,Kolkata,Consumer
+C0007,Customer_0007,Jaipur,Corporate
+C0008,Customer_0008,Jaipur,Corporate
+C0009,Customer_0009,Hyderabad,Consumer
+C0010,Customer_0010,Mumbai,Corporate
+C0011,Customer_0011,Chennai,Consumer
+C0012,Customer_0012,Jaipur,Consumer
+C0013,Customer_0013,Delhi,Corporate
+C0014,Customer_0014,Mumbai,Consumer
+C0015,Customer_0015,Chennai,Corporate
+C0016,Customer_0016,Bengaluru,Corporate
+C0017,Customer_0017,Bengaluru,Home Office
+C0018,Customer_0018,Delhi,Corporate
+C0019,Customer_0019,Jaipur,Consumer
+C0020,Customer_0020,Chennai,Consumer
+C0021,Customer_0021,Hyderabad,Consumer
+C0022,Customer_0022,Delhi,Consumer
+C0023,Customer_0023,Jaipur,Consumer
+C0024,Customer_0024,Jaipur,Corporate
+C0025,Customer_0025,Hyderabad,Home Office
+C0026,Customer_0026,Delhi,Home Office
+C0027,Customer_0027,Kolkata,Consumer
+C0028,Customer_0028,Jaipur,Consumer
+C0029,Customer_0029,Bengaluru,Corporate
+C0030,Customer_0030,Chennai,Consumer
+C0031,Customer_0031,Kolkata,Consumer
+C0032,Customer_0032,Hyderabad,Consumer
+C0033,Customer_0033,Hyderabad,Consumer
+C0034,Customer_0034,Jaipur,Corporate
+C0035,Customer_0035,Pune,Home Office
+C0036,Customer_0036,Delhi,Consumer
+C0037,Customer_0037,Delhi,Consumer
+C0038,Customer_0038,Jaipur,Corporate
+C0039,Customer_0039,Pune,Home Office
+C0040,Customer_0040,Delhi,Consumer
+C0041,Customer_0041,Kolkata,Consumer
+C0042,Customer_0042,Pune,Home Office
+C0043,Customer_0043,Delhi,Home Office
+C0044,Customer_0044,Bengaluru,Consumer
+C0045,Customer_0045,Delhi,Consumer
+C0046,Customer_0046,Mumbai,Corporate
+C0047,Customer_0047,Chennai,Home Office
+C0048,Customer_0048,Chennai,Consumer
+C0049,Customer_0049,Hyderabad,Corporate
+C0050,Customer_0050,Chennai,Corporate
+C0051,Customer_0051,Mumbai,Consumer
+C0052,Customer_0052,Jaipur,Consumer
+C0053,Customer_0053,Kolkata,Consumer
+C0054,Customer_0054,Kolkata,Consumer
+C0055,Customer_0055,Delhi,Corporate
+C0056,Customer_0056,Kolkata,Consumer
+C0057,Customer_0057,Delhi,Consumer
+C0058,Customer_0058,Mumbai,Consumer
+C0059,Customer_0059,Delhi,Consumer
+C0060,Customer_0060,Delhi,Consumer
+C0061,Customer_0061,Chennai,Consumer
+C0062,Customer_0062,Jaipur,Consumer
+C0063,Customer_0063,Pune,Corporate
+C0064,Customer_0064,Hyderabad,Consumer
+C0065,Customer_0065,Hyderabad,Consumer
+C0066,Customer_0066,Hyderabad,Consumer
+C0067,Customer_0067,Jaipur,Corporate
+C0068,Customer_0068,Jaipur,Home Office
+C0069,Customer_0069,Bengaluru,Home Office
+C0070,Customer_0070,Mumbai,Consumer
+C0071,Customer_0071,Kolkata,Consumer
+C0072,Customer_0072,Delhi,Home Office
+C0073,Customer_0073,Pune,Home Office
+C0074,Customer_0074,Jaipur,Consumer
+C0075,Customer_0075,Jaipur,Corporate
+C0076,Customer_0076,Hyderabad,Home Office
+C0077,Customer_0077,Jaipur,Corporate
+C0078,Customer_0078,Delhi,Home Office
+C0079,Customer_0079,Pune,Consumer
+C0080,Customer_0080,Hyderabad,Consumer
+C0081,Customer_0081,Kolkata,Consumer
+C0082,Customer_0082,Mumbai,Consumer
+C0083,Customer_0083,Kolkata,Home Office
+C0084,Customer_0084,Kolkata,Consumer
+C0085,Customer_0085,Kolkata,Corporate
+C0086,Customer_0086,Mumbai,Consumer
+C0087,Customer_0087,Kolkata,Consumer
+C0088,Customer_0088,Kolkata,Consumer
+C0089,Customer_0089,Hyderabad,Consumer
+C0090,Customer_0090,Kolkata,Consumer
+C0091,Customer_0091,Mumbai,Consumer
+C0092,Customer_0092,Kolkata,Consumer
+C0093,Customer_0093,Chennai,Corporate
+C0094,Customer_0094,Mumbai,Consumer
+C0095,Customer_0095,Pune,Consumer
+C0096,Customer_0096,Mumbai,Consumer
+C0097,Customer_0097,Pune,Consumer
+C0098,Customer_0098,Mumbai,Consumer
+C0099,Customer_0099,Jaipur,Home Office
+C0100,Customer_0100,Jaipur,Home Office
+C0101,Customer_0101,Bengaluru,Consumer
+C0102,Customer_0102,Kolkata,Consumer
+C0103,Customer_0103,Bengaluru,Consumer
+C0104,Customer_0104,Bengaluru,Consumer
+C0105,Customer_0105,Pune,Consumer
+C0106,Customer_0106,Jaipur,Consumer
+C0107,Customer_0107,Kolkata,Home Office
+C0108,Customer_0108,Kolkata,Consumer
+C0109,Customer_0109,Bengaluru,Corporate
+C0110,Customer_0110,Jaipur,Corporate
+C0111,Customer_0111,Delhi,Corporate
+C0112,Customer_0112,Hyderabad,Consumer
+C0113,Customer_0113,Pune,Corporate
+C0114,Customer_0114,Kolkata,Home Office
+C0115,Customer_0115,Mumbai,Corporate
+C0116,Customer_0116,Mumbai,Consumer
+C0117,Customer_0117,Hyderabad,Corporate
+C0118,Customer_0118,Kolkata,Corporate
+C0119,Customer_0119,Chennai,Corporate
+C0120,Customer_0120,Chennai,Consumer
+C0121,Customer_0121,Hyderabad,Home Office
+C0122,Customer_0122,Hyderabad,Home Office
+C0123,Customer_0123,Pune,Consumer
+C0124,Customer_0124,Hyderabad,Corporate
+C0125,Customer_0125,Jaipur,Consumer
+C0126,Customer_0126,Kolkata,Home Office
+C0127,Customer_0127,Kolkata,Corporate
+C0128,Customer_0128,Delhi,Corporate
+C0129,Customer_0129,Hyderabad,Corporate
+C0130,Customer_0130,Kolkata,Consumer
+C0131,Customer_0131,Delhi,Consumer
+C0132,Customer_0132,Bengaluru,Consumer
+C0133,Customer_0133,Bengaluru,Corporate
+C0134,Customer_0134,Chennai,Consumer
+C0135,Customer_0135,Kolkata,Home Office
+C0136,Customer_0136,Jaipur,Consumer
+C0137,Customer_0137,Jaipur,Consumer
+C0138,Customer_0138,Pune,Consumer
+C0139,Customer_0139,Bengaluru,Corporate
+C0140,Customer_0140,Jaipur,Corporate
+C0141,Customer_0141,Kolkata,Corporate
+C0142,Customer_0142,Pune,Consumer
+C0143,Customer_0143,Hyderabad,Corporate
+C0144,Customer_0144,Hyderabad,Consumer
+C0145,Customer_0145,Jaipur,Home Office
+C0146,Customer_0146,Pune,Corporate
+C0147,Customer_0147,Delhi,Consumer
+C0148,Customer_0148,Chennai,Consumer
+C0149,Customer_0149,Chennai,Corporate
+C0150,Customer_0150,Pune,Consumer
+C0151,Customer_0151,Chennai,Home Office
+C0152,Customer_0152,Pune,Consumer
+C0153,Customer_0153,Hyderabad,Home Office
+C0154,Customer_0154,Kolkata,Home Office
+C0155,Customer_0155,Jaipur,Consumer
+C0156,Customer_0156,Mumbai,Corporate
+C0157,Customer_0157,Bengaluru,Consumer
+C0158,Customer_0158,Jaipur,Corporate
+C0159,Customer_0159,Pune,Consumer
+C0160,Customer_0160,Hyderabad,Consumer
+C0161,Customer_0161,Hyderabad,Home Office
+C0162,Customer_0162,Mumbai,Consumer
+C0163,Customer_0163,Mumbai,Consumer
+C0164,Customer_0164,Pune,Consumer
+C0165,Customer_0165,Bengaluru,Consumer
+C0166,Customer_0166,Delhi,Corporate
+C0167,Customer_0167,Hyderabad,Consumer
+C0168,Customer_0168,Chennai,Home Office
+C0169,Customer_0169,Chennai,Corporate
+C0170,Customer_0170,Bengaluru,Consumer
+C0171,Customer_0171,Hyderabad,Home Office
+C0172,Customer_0172,Chennai,Consumer
+C0173,Customer_0173,Delhi,Consumer
+C0174,Customer_0174,Bengaluru,Corporate
+C0175,Customer_0175,Kolkata,Consumer
+C0176,Customer_0176,Bengaluru,Consumer
+C0177,Customer_0177,Chennai,Home Office
+C0178,Customer_0178,Hyderabad,Consumer
+C0179,Customer_0179,Mumbai,Home Office
+C0180,Customer_0180,Pune,Corporate
