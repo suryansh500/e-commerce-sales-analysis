@@ -11,7 +11,6 @@ Technologies Used
 - NumPy
 - Matplotlib
 - Seaborn
-- SQL
 
 Dataset
 
@@ -40,7 +39,6 @@ ecommerce-sales-analysis/
 │   ├── products.csv
 │   └── orders.csv
 ├── analysis.py
-├── analysis.sql
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -60,4 +58,3 @@ Learning Outcomes
 - Grouping and aggregating data
 - Time-based analysis
 - Exploratory data analysis and visualization
-- Writing SQL queries for business questions
